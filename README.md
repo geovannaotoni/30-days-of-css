@@ -2,8 +2,8 @@
 Repositório para o desafio que consiste em minis projetos diários utilizando HTML5 e CSS3, com o objeto de aprimorar as habilidades de estilização. <br> :star: [Acesse aqui o Repositório original do desafio](https://github.com/MilenaCarecho/30diasDeCSS).
 
 ## Dia 1 - Ícone de mídia social em camadas
-<img src="./Desafios/Dia%2001/day1.gif">
-**Habilidades**:
+<img src="./Desafios/Dia%2001/day1.gif"><br>
+__:wrench: Habilidades__:
 - Transições CSS
 - Construção de camadas
 
