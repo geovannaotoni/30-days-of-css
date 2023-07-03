@@ -8,6 +8,10 @@ __:wrench: Habilidades__:
 - Construção de camadas
 
 ## Dia 02 - Loader animado
+<img src="./Desafios/Dia%2002/day2.gif"><br>
+__:wrench: Habilidades__:
+- Animações CSS com keyframes
+
 ## Dia 03 - Mudança de cor de texto quando entra em outra div
 ## Dia 04 - Botão com efeito
 ## Dia 05 - Efeito pulsar
