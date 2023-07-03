@@ -3,9 +3,9 @@ Repositório para o desafio que consiste em minis projetos diários utilizando H
 
 ## Dia 1 - Ícone de mídia social em camadas
 <img src="./Desafios/Dia%2001/day1.gif">
-Ferramentas:
-* Transições CSS
-* Construção de camadas
+**Habilidades**:
+- Transições CSS
+- Construção de camadas
 
 ## Dia 02 - Loader animado
 ## Dia 03 - Mudança de cor de texto quando entra em outra div
