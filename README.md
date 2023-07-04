@@ -15,10 +15,15 @@ __:wrench: Habilidades__:
 ## Dia 03 - Mudança de cor de texto quando entra em outra div
 <img src="./Desafios/Dia%2003/day3.gif"><br>
 __:wrench: Habilidades__:
-- Animações CSS com keyframes,
+- Transition Properties,
 - Filtro hue-rotate.
 
-## Dia 04 - Botão com efeito
+## Dia 04 - Botões com efeito
+<img src="./Desafios/Dia%2004/day4.gif"><br>
+__:wrench: Habilidades__:
+- Pseudo-classes como Hover, Before, After,
+- Inspirações de botões: https://uiverse.io/buttons.
+
 ## Dia 05 - Efeito pulsar
 ## Dia 06 - Efeito lightning text
 ## Dia 07 - Preloader animado
