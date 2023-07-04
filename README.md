@@ -4,15 +4,20 @@ Repositório para o desafio que consiste em minis projetos diários utilizando H
 ## Dia 1 - Ícone de mídia social em camadas
 <img src="./Desafios/Dia%2001/day1.gif"><br>
 __:wrench: Habilidades__:
-- Transições CSS
-- Construção de camadas
+- Transições CSS,
+- Construção de camadas.
 
 ## Dia 02 - Loader animado
 <img src="./Desafios/Dia%2002/day2.gif"><br>
 __:wrench: Habilidades__:
-- Animações CSS com keyframes
+- Animações CSS com keyframes.
 
 ## Dia 03 - Mudança de cor de texto quando entra em outra div
+<img src="./Desafios/Dia%2003/day3.gif"><br>
+__:wrench: Habilidades__:
+- Animações CSS com keyframes,
+- Filtro hue-rotate.
+
 ## Dia 04 - Botão com efeito
 ## Dia 05 - Efeito pulsar
 ## Dia 06 - Efeito lightning text

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&display=swap');
+
+.container1 {
+  height: 100px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(126, 220, 218);
+  animation: colors-animation 10s infinite;
+}
+
+h3 {
+  font-family: 'Belanosima', sans-serif;
+  font-size: 3rem;
+  color: white;
+}
+
+.container2 {
+  height: 100px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(79, 74, 224);
+  animation: colors-animation 5s infinite;
+}
+
+h4 {
+  font-family: 'Belanosima', sans-serif;
+  font-size: 3rem;
+}
+
+@keyframes colors-animation {
+  0% {
+    filter: hue-rotate(0);
+  }
+  50% {
+    filter: hue-rotate(180deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
