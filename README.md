@@ -29,10 +29,16 @@ __:wrench: Habilidades__:
 __:wrench: Habilidades__:
 - Background linear-gradient,
 - Keyframes,
-- Propriedade Transform Scale
+- Propriedade Transform Scale,
 - Inspiração: https://www.loopnerd.com.br/.
 
-## Dia 06 - Efeito lightning text
+## Dia 06 - Efeito Lightning Text
+<img src="./Desafios/Dia%2006/day6.gif"><br>
+__:wrench: Habilidades__:
+- Propriedade Text-Shadow,
+- Keyframes e Animation Delay,
+- Pseudo-Classe: nth-of-type.
+
 ## Dia 07 - Preloader animado
 ## Dia 08 - Coração batendo
 ## Dia 09 - Pendulo de Newton
