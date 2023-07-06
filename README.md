@@ -25,6 +25,13 @@ __:wrench: Habilidades__:
 - Inspirações de botões: https://uiverse.io/buttons.
 
 ## Dia 05 - Efeito pulsar
+<img src="./Desafios/Dia%2005/day5.gif"><br>
+__:wrench: Habilidades__:
+- Background linear-gradient,
+- Keyframes,
+- Propriedade Transform Scale
+- Inspiração: https://www.loopnerd.com.br/.
+
 ## Dia 06 - Efeito lightning text
 ## Dia 07 - Preloader animado
 ## Dia 08 - Coração batendo
