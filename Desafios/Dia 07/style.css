@@ -1,0 +1,185 @@
+section {
+  display: flex;
+}
+
+.loader-one {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  margin: 5rem;
+}
+
+.loader-one span {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color:rgb(197, 42, 184);
+  border-radius: 4px;
+  animation: chase 2s linear infinite;
+}
+
+.loader-one span:nth-child(1) {
+  animation-delay: 1.4s;
+}
+
+.loader-one span:nth-child(2) {
+  animation-delay: 0.7s;
+}
+
+@keyframes chase {
+  0% {top: 0; left: 0;}
+
+  12.5% { top: 0; left: 50%;}
+
+  25% { top: 0; left: 50%;}
+
+  37.5% { top: 50%; left: 50%;}
+
+  50% { top: 50%; left: 50%;}
+
+  62.5% { top: 50% ; left: 0;}
+
+  75% { top: 50% ; left: 0;}
+
+  82.5% { top: 0; left: 0;}
+
+  100% { top: 0; left: 0;}
+}
+
+@keyframes square-animation {
+  0% {
+    left: 0;
+    top: 0;
+  }
+
+  10.5% {
+    left: 0;
+    top: 0;
+  }
+
+  12.5% {
+    left: 25px;
+    top: 0;
+  }
+
+  23% {
+    left: 25px;
+    top: 0;
+  }
+
+  25% {
+    left: 50px;
+    top: 0;
+  }
+
+  35.5% {
+    left: 50px;
+    top: 0;
+  }
+
+  37.5% {
+    left: 50px;
+    top: 32px;
+  }
+
+  48% {
+    left: 50px;
+    top: 25px;
+  }
+
+  50% {
+    left: 25px;
+    top: 25px;
+  }
+
+  60.5% {
+    left: 25px;
+    top: 25px;
+  }
+
+  62.5% {
+    left: 25px;
+    top: 50px;
+  }
+
+  73% {
+    left: 25px;
+    top: 50px;
+  }
+
+  75% {
+    left: 0;
+    top: 50px;
+  }
+
+  85.5% {
+    left: 0;
+    top: 50px;
+  }
+
+  87.5% {
+    left: 0;
+    top: 25px;
+  }
+
+  98% {
+    left: 0;
+    top: 25px;
+  }
+
+  100% {
+    left: 0;
+    top: 0;
+  }
+}
+
+.loader-two {
+  position: relative;
+  width: 96px;
+  height: 96px;
+  transform: rotate(45deg);
+  margin: 5rem
+}
+
+.loader-square {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 1px;
+  background: rgb(15, 39, 197);
+  animation: square-animation 10s ease-in-out infinite both;
+}
+
+.loader-square:nth-of-type(0) {
+  animation-delay: 0s;
+}
+
+.loader-square:nth-of-type(1) {
+  animation-delay: -1.5s;
+}
+
+.loader-square:nth-of-type(2) {
+  animation-delay: -2.8s;
+}
+
+.loader-square:nth-of-type(3) {
+  animation-delay: -4.3s;
+}
+
+.loader-square:nth-of-type(4) {
+  animation-delay: -5.7s;
+}
+
+.loader-square:nth-of-type(5) {
+  animation-delay: -7.2s;
+}
+
+.loader-square:nth-of-type(6) {
+  animation-delay: -8.5s;
+}
+
+.loader-square:nth-of-type(7) {
+  animation-delay: -10s;
+}

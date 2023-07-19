@@ -1,5 +1,5 @@
 # 30 Dias De CSS :sparkles:
-Repositório para o desafio que consiste em minis projetos diários utilizando HTML5 e CSS3, com o objeto de aprimorar as habilidades de estilização. <br> :star: [Acesse aqui o Repositório original do desafio](https://github.com/MilenaCarecho/30diasDeCSS).
+Repositório para o desafio que consiste em minis projetos diários utilizando HTML5 e CSS3, com o objeto de aprimorar as habilidades de estilização. <br> :star: [Acesse aqui o Repositório original do desafio](https://github.com/MilenaCarecho/30diasDeCSS) e outro [repositório de inspiração](https://github.com/Brenda-A-S/30-days-css).
 
 ## Dia 1 - Ícone de mídia social em camadas
 <img src="./Desafios/Dia%2001/day1.gif"><br>
@@ -40,8 +40,26 @@ __:wrench: Habilidades__:
 - Pseudo-Classe: nth-of-type.
 
 ## Dia 07 - Preloader animado
+<img src="./Desafios/Dia%2007/day07.gif"><br>
+__:wrench: Habilidades__:
+- Keyframes e Animation Delay,
+- Pseudo-Classe: nth-of-type e nth-child.
+- Inspirações de loaders: [https://uiverse.io/](https://uiverse.io/Z-C-Code/grumpy-stingray-26).
+
 ## Dia 08 - Coração batendo
-## Dia 09 - Pendulo de Newton
+<img src="./Desafios/Dia%2008/day08.gif"><br>
+__:wrench: Habilidades__:
+- Keyframes e Animation Delay,
+- Pseudo-Classe: before and after,
+- Propriedades Transform: Scale e Rotate.
+
+## Dia 09 - Efeito de Chuva
+<img src="./Desafios/Dia%2009/day09.gif"><br>
+__:wrench: Habilidades__:
+- Keyframes,
+- Função var(),
+- [Text-Shadow Generator](https://www.cssportal.com/css3-text-shadow-generator/).
+
 ## Dia 10 - Animação texto alternando
 ## Dia 11 - Botão com efeito hover
 ## Dia 12 - Efeito de preenchimento ao passar o mouse
